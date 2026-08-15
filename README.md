@@ -2,7 +2,7 @@
 
 A Flutter-based mobile application designed to help electric vehicle (EV) users find nearby charging stations, view station details, book charging slots, and make payments using UPI.
 
-The application integrates Open Charge Map API for EV charging station data and Firebase Authentication for secure user authentication.
+The application integrates Open Charge Map API for EV charging station data and Firebase Authentication for Secure user authentication.
 
 
 
