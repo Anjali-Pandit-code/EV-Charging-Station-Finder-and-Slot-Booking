@@ -75,7 +75,7 @@ class _MapPageState extends State<MapPage> {
   TextEditingController();
 
   final String myApiKey =
-      'dc1f59f8-70e6-405i-akfb-1d6f73e71610';
+      'my_Api_Key';
 
   final String myIdentity =
       'VoltSpot/contact@voltspot.in';
